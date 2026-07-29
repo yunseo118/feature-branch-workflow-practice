@@ -1,3 +1,3 @@
 # feature-branch-workflow-practice
 
-안녕하세요! 유린입니다
+안녕하세요! 이윤서입니다
